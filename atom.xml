@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ghostlyheart.GitHub.io</id>
     <title>GhostlyHeart</title>
-    <updated>2020-03-25T04:25:12.903Z</updated>
+    <updated>2020-03-25T06:52:19.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ghostlyheart.GitHub.io"/>
     <link rel="self" href="https://ghostlyheart.GitHub.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://ghostlyheart.GitHub.io/images/avatar.png</logo>
     <icon>https://ghostlyheart.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, GhostlyHeart</rights>
+    <entry>
+        <title type="html"><![CDATA[HELLO]]></title>
+        <id>https://ghostlyheart.GitHub.io/post/hello/</id>
+        <link href="https://ghostlyheart.GitHub.io/post/hello/">
+        </link>
+        <updated>2020-03-25T06:45:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>米娜桑，kong ni ji wa ，这是我的私人博客，也不知道写点啥反正就瞎写写好了😀</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>米娜桑，kong ni ji wa ，这是我的私人博客，也不知道写点啥反正就瞎写写好了😀</p>
+<!-- more -->
+<p>我打算这个博客用来买相机之后分享拍摄的作品，可能刚上手的时候还算不上作品吧😜，分享拍摄的底片，也可能分享些自己修过的片子。</p>
+<!-- more -->
+<p>⌚️时间差不多了，第一篇博客就这么多吧，sa yo na na.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ghostlyheart.GitHub.io/post/hello-gridea/</id>
