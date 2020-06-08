@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ghostlyheart.GitHub.io</id>
     <title>GhostlyHeart</title>
-    <updated>2020-03-29T10:06:43.862Z</updated>
+    <updated>2020-06-08T11:27:44.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ghostlyheart.GitHub.io"/>
     <link rel="self" href="https://ghostlyheart.GitHub.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://ghostlyheart.GitHub.io/images/avatar.png</logo>
     <icon>https://ghostlyheart.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, GhostlyHeart</rights>
+    <entry>
+        <title type="html"><![CDATA[作品分享]]></title>
+        <id>https://ghostlyheart.GitHub.io/post/zuo-pin-fen-xiang/</id>
+        <link href="https://ghostlyheart.GitHub.io/post/zuo-pin-fen-xiang/">
+        </link>
+        <updated>2020-06-08T11:26:20.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://ghostlyheart.GitHub.io/post-images/1591615602139.jpg" alt="" loading="lazy"><br>
+<img src="https://ghostlyheart.GitHub.io/post-images/1591615606359.jpg" alt="" loading="lazy"><br>
+<img src="https://ghostlyheart.GitHub.io/post-images/1591615610408.jpg" alt="" loading="lazy"></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://ghostlyheart.GitHub.io/post-images/1591615602139.jpg" alt="" loading="lazy"><br>
+<img src="https://ghostlyheart.GitHub.io/post-images/1591615606359.jpg" alt="" loading="lazy"><br>
+<img src="https://ghostlyheart.GitHub.io/post-images/1591615610408.jpg" alt="" loading="lazy"></p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HELLO]]></title>
         <id>https://ghostlyheart.GitHub.io/post/hello/</id>
