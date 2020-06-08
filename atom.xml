@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ghostlyheart.GitHub.io</id>
     <title>GhostlyHeart</title>
-    <updated>2020-06-08T11:28:17.833Z</updated>
+    <updated>2020-06-08T11:37:51.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ghostlyheart.GitHub.io"/>
     <link rel="self" href="https://ghostlyheart.GitHub.io/atom.xml"/>
@@ -16,14 +16,9 @@
         <link href="https://ghostlyheart.GitHub.io/post/zuo-pin-fen-xiang/">
         </link>
         <updated>2020-06-08T11:26:20.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://ghostlyheart.GitHub.io/post-images/1591615602139.jpg" alt="" loading="lazy"><br>
-<img src="https://ghostlyheart.GitHub.io/post-images/1591615606359.jpg" alt="" loading="lazy"><br>
-<img src="https://ghostlyheart.GitHub.io/post-images/1591615610408.jpg" alt="" loading="lazy"></p>
-]]></summary>
-        <content type="html"><![CDATA[<p><img src="https://ghostlyheart.GitHub.io/post-images/1591615602139.jpg" alt="" loading="lazy"><br>
-<img src="https://ghostlyheart.GitHub.io/post-images/1591615606359.jpg" alt="" loading="lazy"><br>
-<img src="https://ghostlyheart.GitHub.io/post-images/1591615610408.jpg" alt="" loading="lazy"></p>
-<!-- more -->
+        <content type="html"><![CDATA[<p><img src="https://ghostlyheart.GitHub.io/post-images/1591616249199.jpg" alt="" loading="lazy"><br>
+<img src="https://ghostlyheart.GitHub.io/post-images/1591616251168.jpg" alt="" loading="lazy"><br>
+<img src="https://ghostlyheart.GitHub.io/post-images/1591616253226.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
