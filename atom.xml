@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ghostlyheart.GitHub.io</id>
     <title>GhostlyHeart</title>
-    <updated>2020-06-08T11:38:35.892Z</updated>
+    <updated>2020-06-08T11:39:41.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ghostlyheart.GitHub.io"/>
     <link rel="self" href="https://ghostlyheart.GitHub.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://ghostlyheart.GitHub.io/post/zuo-pin-fen-xiang/">
         </link>
         <updated>2020-06-08T11:26:20.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://ghostlyheart.GitHub.io/post-images/1591616249199.jpg" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<!-- more -->
+<p><img src="https://ghostlyheart.GitHub.io/post-images/1591616249199.jpg" alt="" loading="lazy"><br>
 <img src="https://ghostlyheart.GitHub.io/post-images/1591616251168.jpg" alt="" loading="lazy"><br>
 <img src="https://ghostlyheart.GitHub.io/post-images/1591616253226.jpg" alt="" loading="lazy"></p>
 ]]></content>
